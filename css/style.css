@@ -1,0 +1,10 @@
+/* main plugin stylesheet */
+b{
+    color:red;
+}
+.parents{
+    color:#DCD6AA;
+}
+input[type="text"] {
+    width: 50%;
+}
